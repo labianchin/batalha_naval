@@ -1,4 +1,4 @@
-batalha_naval
+Batalha Naval em OCaml
 =============
 
-Batalha naval em OCaml desenvolvido em Julho de 2010
+Jogo de batalha naval em desenvolvido na linguagem OCaml para disciplina de Modelos de Linguagens de Programação em Julho de 2010.
